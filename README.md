@@ -1,10 +1,10 @@
-## About Me
+## About Me 👋
 
-I am a software developer specializing in physiological experiments and data analysis of electrophysiological data such as EEG. My interests and expertise include signal processing, Python development, and machine learning.
+I am a software developer specializing in physiological experiments and data analysis of electrophysiological data such as EEG. My interests and expertise include signal processing, Python development, and machine learning. 🧑‍💻🧠
 
 ---
 
-## Education
+## Education 🎓
 
 - **M.Sc. (in progress), Biophysics and Neurotechnologies**  
   Southern Federal University
@@ -14,29 +14,29 @@ I am a software developer specializing in physiological experiments and data ana
 
 ---
 
-## Professional Experience
+## Professional Experience 💼
 
 - **Software Engineer**  
   Scientific Technological Center of Neurotechnologies, Southern Federal University
 
 ---
 
-## Skills
+## Skills 🚀
 
-- Python
-- Machine Learning
-- Signal Processing
-- Electrophysiological Data Analysis (EEG)
-- English (fluent)
+- 🐍 Python
+- 🤖 Machine Learning
+- 📈 Signal Processing
+- 🧲 Electrophysiological Data Analysis (EEG)
+- 🇬🇧 English (fluent)
 
 ---
 
-## Publications
+## Publications 📝
 
 - [My ResearchGate Profile](https://www.researchgate.net/profile/Avedik_Ekizyan)
 
 ---
 
-## Contact
+## Contact 📬
 
 - **Email**: ekizyan@sfedu.ru
