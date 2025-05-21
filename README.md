@@ -1,16 +1,42 @@
-## Hi there 👋
+## About Me
 
-<!--
-**AvedikEkiz/AvedikEkiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer specializing in physiological experiments and data analysis of electrophysiological data such as EEG. My interests and expertise include signal processing, Python development, and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **M.Sc. (in progress), Biophysics and Neurotechnologies**  
+  Southern Federal University
+
+- **B.Sc., Physics**  
+  Southern Federal University
+
+---
+
+## Professional Experience
+
+- **Software Engineer**  
+  Scientific Technological Center of Neurotechnologies, Southern Federal University
+
+---
+
+## Skills
+
+- Python
+- Machine Learning
+- Signal Processing
+- Electrophysiological Data Analysis (EEG)
+- English (fluent)
+
+---
+
+## Publications
+
+- [My ResearchGate Profile](https://www.researchgate.net/profile/Avedik_Ekizyan)
+
+---
+
+## Contact
+
+- **Email**: ekizyan@sfedu.ru
