@@ -6,7 +6,7 @@ I am a software developer specializing in physiological experiments and data ana
 
 ## Education 🎓
 
-- **M.Sc. (in progress), Biophysics and Neurotechnologies**  
+- **M.Sc., Biophysics and Neurotechnologies**  
   Southern Federal University
 
 - **B.Sc., Physics**  
